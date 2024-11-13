@@ -130,8 +130,13 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - International Journal of Digital Earth (IJDE)
 
 <!-- # 🎖 Honors and Awards
+- Academic Innovation Achievement Awards for Doctoral Students, Beihang University, 2023/2024
 - First Class Scholarship, Beihang University (Top 10%),  2022/2023
 - Outstanding Student Leaders of Beihang University, 2022
 - Outstanding Graduates, Harbin Engineering University (Top 2%),  2018
-- National Scholarship (Top 1%),  2015 -->
+- National Scholarship (Top 1%),  2015 
+-->
 
+<center>
+ <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=m&d=98ZgCYz_BPXzld4HL9fFapBJ5kjTLP5IRdxhqmBdddg&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script> 
+ </center>
