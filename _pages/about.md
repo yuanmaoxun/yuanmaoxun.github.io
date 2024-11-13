@@ -138,5 +138,5 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 -->
 
 <center>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=m&d=-QTX3x4GybnIy2JW23FsmOXlXN-hejQDD6y2jlitXVw&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=-QTX3x4GybnIy2JW23FsmOXlXN-hejQDD6y2jlitXVw'></script>
  </center>
