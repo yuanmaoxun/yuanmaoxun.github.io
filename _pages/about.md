@@ -17,7 +17,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 
 # 🔥 News
-- *2024/08* :&nbsp; 🎉🎉 One paper is accepted to ECAI ([C2Former](https://arxiv.org/abs/2410.22837)).
+- *2024/08* :&nbsp; 🎉🎉 One paper is accepted to ECAI ([SFDFusion](https://arxiv.org/abs/2410.22837)).
 - *2024/03* :&nbsp; 🎉🎉 One paper is accepted to TGRS ([C2Former](https://ieeexplore.ieee.org/abstract/document/10472947)).
 - *2023/12* :&nbsp; 🎉🎉 One paper is accepted to INFS ([CAGT](https://www.sciencedirect.com/science/article/pii/S1566253524000241)).
 - *2023/07* :&nbsp; 🎉🎉 One paper is accepted to PR ([APA](https://www.sciencedirect.com/science/article/pii/S0031320323001668)).
