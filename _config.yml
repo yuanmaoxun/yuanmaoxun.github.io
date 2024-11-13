@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Maoxun Yuan"Ph.D Student, Beihang University."
+title                    : "Maoxun Yuan"
 description              : "Ph.D Student, Beihang University, China."
 repository               : "yuanmaoxun/yuanmaoxun.github.io"
 google_scholar_stats_use_cdn : true
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=I6aiGq8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=I6aiGq8AAAAJ"
   email            : "yuanmaoxun@buaa.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
