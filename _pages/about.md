@@ -17,42 +17,127 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 About Me
+I am a last year Ph.D student in the the School of Computer Science and Engineering, Beihang University (BUAA), supervised by Prof. [Xingxing Wei](https://sites.google.com/site/xingxingwei1988/) and [Bo Li](https://iai.buaa.edu.cn/info/1013/1089.htm). Before my PhD study, I was a master student at Beihang University (BUAA). I received my B.Eng. degree from Harbin Engineering University (HEU) in 2018.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes **Multimodal Perception**, **Multisource Data Fusion** and **Remote Sensing**. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024/08* :&nbsp; 🎉🎉 One paper is accepted to ECAI ([C2Former](https://arxiv.org/abs/2410.22837)).
+- *2024/03* :&nbsp; 🎉🎉 One paper is accepted to TGRS ([C2Former](https://ieeexplore.ieee.org/abstract/document/10472947)).
+- *2023/12* :&nbsp; 🎉🎉 One paper is accepted to INFS ([CAGT](https://www.sciencedirect.com/science/article/pii/S1566253524000241)).
+- *2023/07* :&nbsp; 🎉🎉 One paper is accepted to PR ([APA](https://www.sciencedirect.com/science/article/pii/S0031320323001668)).
+- *2022/07* :&nbsp; 🎉🎉 One paper is accepted to ECCV 2022 ([TSFADet](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30)).
+- *2021/08* :&nbsp; 🆕🆕 We creat a new repository to collect [RGB-T-Fusion methods](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion)&nbsp; ![img](https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social). 
+
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/TGRS2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+[UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning](https://arxiv.org/abs/2404.17360)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**<u>Maoxun Yuan</u>***, Bo Cui\*, Tianyi Zhao, Jiayi Wang, Shan Fu, Xingxing Wei.
+<!-- _IEEE Transactions on Image Processing(**TIP**), 2024_ -->
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+📃[**Paper**](https://arxiv.org/abs/2404.17360)     💾[**Code**](https://github.com/PoTsui99/UniRGB-IR) ![img](https://img.shields.io/github/stars/PoTsui99/UniRGB-IR?style=social) 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/TGRS2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection](https://arxiv.org/abs/2401.10731)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Tianyi Zhao\*, **<u>Maoxun Yuan</u>***, Feng Jiang, Nan Wang, Xingxing Wei.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- _IEEE Transactions on Intelligent Transportation Systems(**TITS**), 2024_ -->
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+📃[**Paper**](https://arxiv.org/abs/2401.10731)     💾[**Code**](https://github.com/Zhao-Tian-yi/RSDet)    ![img](https://img.shields.io/github/stars/Zhao-Tian-yi/RSDet?style=social) 
+</div>
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/TGRS2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[C<sup>2</sup>Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection](https://ieeexplore.ieee.org/abstract/document/10472947)
+
+**<u>Maoxun Yuan</u>** and Xingxing Wei (Supervisor).
+
+_IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024_
+
+📃[**Paper**](https://ieeexplore.ieee.org/abstract/document/10472947)     💾[**Code**](https://github.com/yuanmaoxun/C2Former)   ![img](https://img.shields.io/github/stars/yuanmaoxun/C2Former?style=social) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/ECAI2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion](https://arxiv.org/abs/2410.22837)
+
+Kun Hu, Qingle Zhang, **<u>Maoxun Yuan</u>**, Yitian Zhang.
+
+_European Conference on Artificial Intelligence (**ECAI**), 2024_
+
+📃[**Paper**](https://arxiv.org/abs/2410.22837)     💾[**Code**](https://github.com/lqz2/SFDFusion)    ![img](https://img.shields.io/github/stars/lqz2/SFDFusion?style=social) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFS 2024</div><img src='images/infs2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Improving RGB-infrared object detection with cascade alignment-guided transformer](https://www.sciencedirect.com/science/article/pii/S1566253524000241)
+
+**<u>Maoxun Yuan</u>**, Xiaorong Shi, Nan Wang, Yinyan Wang, and Xingxing Wei (Supervisor).
+
+_Information Fusion (**INFS**), 2024_
+
+📃[**Paper**](https://www.sciencedirect.com/science/article/pii/S1566253524000241)     💾[**Code**](https://github.com/yuanmaoxun/C2Former)    
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/PR2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Adversarial pan-sharpening attacks for object detection in remote sensing](https://www.sciencedirect.com/science/article/pii/S0031320323001668)
+
+Xingxing Wei (Supervisor) and **<u>Maoxun Yuan</u>**.
+
+_Pattern Recognition (**PR**), 2023_
+
+📃[**Paper**](https://www.sciencedirect.com/science/article/pii/S0031320323001668) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/ECCV2022.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Translation, scale and rotation: cross-modal alignment meets RGB-infrared vehicle detection](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30)
+
+**<u>Maoxun Yuan</u>**, Yinyan Wang, and Xingxing Wei (Supervisor).
+
+_European Conference on Computer Vision (**ECCV**), 2022_
+
+📃[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30)     💾[**Code**](https://github.com/yuanmaoxun/C2Former)    
+</div>
+</div>
+
+# 💻 Academic Services
+### **Conference Reviewer:** 
+- CVPR (2023-2025), ICCV (2023), ECCV (2022/2024)
+- ACM MM (2023-2024), AAAI (2024)
+- ACCV (2024)
+### **Conference Reviewer:** 
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Multimedia (TMM)
+- IEEE Transactions on Intelligent Transportation Systems (TITS)
+- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- Neurocomputing
+- Machine Vision and Applications
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)
+- International Journal of Digital Earth (IJDE)
+
+<!-- # 🎖 Honors and Awards
+- First Class Scholarship, Beihang University (Top 10%),  2022/2023
+- Outstanding Student Leaders of Beihang University, 2022
+- Outstanding Graduates, Harbin Engineering University (Top 2%),  2018
+- National Scholarship (Top 1%),  2015 -->
+
