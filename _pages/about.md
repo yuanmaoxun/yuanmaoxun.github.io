@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
@@ -35,7 +28,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/TGRS2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/UniRGB-IR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning](https://arxiv.org/abs/2404.17360)
 
@@ -46,7 +39,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/TGRS2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/RSDet.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection](https://arxiv.org/abs/2401.10731)
 
@@ -116,7 +109,7 @@ _Pattern Recognition (**PR**), 2023_
 
 _European Conference on Computer Vision (**ECCV**), 2022_
 
-📃[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30)     💾[**Code**](https://github.com/yuanmaoxun/C2Former)    
+📃[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30)     
 </div>
 </div>
 
@@ -125,7 +118,8 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - CVPR (2023-2025), ICCV (2023), ECCV (2022/2024)
 - ACM MM (2023-2024), AAAI (2024)
 - ACCV (2024)
-### **Conference Reviewer:** 
+
+### **Journal Reviewer:** 
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
