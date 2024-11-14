@@ -30,7 +30,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/UniRGB-IR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning](https://arxiv.org/abs/2404.17360)
+[UniRGB-IR: A Unified Framework for RGB-Infrared Semantic Tasks via Adapter Tuning](https://arxiv.org/abs/2404.17360)
 
 **<u>Maoxun Yuan</u>***, Bo Cui\*, Tianyi Zhao, Jiayi Wang, Shan Fu, Xingxing Wei.
 <!-- _IEEE Transactions on Image Processing(**TIP**), 2024_ -->
