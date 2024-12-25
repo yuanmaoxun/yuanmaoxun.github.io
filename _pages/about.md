@@ -117,7 +117,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 ### **Conference Reviewer:** 
 - CVPR (2023-2025), ICCV (2023), ECCV (2022/2024)
 - ACM MM (2023-2024), AAAI (2024)
-- ACCV (2024)
+- ACCV (2024), ICME  (2025), IGARSS (2025)
 
 ### **Journal Reviewer:** 
 - IEEE Transactions on Image Processing (TIP)
@@ -125,6 +125,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - Neurocomputing
+- The Journal of Supercomputing
 - Machine Vision and Applications
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)
 - International Journal of Digital Earth (IJDE)
