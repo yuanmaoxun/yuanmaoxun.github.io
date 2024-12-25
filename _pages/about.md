@@ -11,12 +11,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I am a last year Ph.D student in the the School of Computer Science and Engineering, Beihang University (BUAA), supervised by Prof. [Xingxing Wei](https://sites.google.com/site/xingxingwei1988/) and [Bo Li](https://iai.buaa.edu.cn/info/1013/1089.htm). Before my PhD study, I was a master student at Beihang University (BUAA). I received my B.Eng. degree from Harbin Engineering University (HEU) in 2018.
+I received my Ph.D degrees in from the School of Computer Science and Engineering, Beihang University (BUAA), supervised by Prof. [Xingxing Wei](https://sites.google.com/site/xingxingwei1988/) and [Bo Li](https://iai.buaa.edu.cn/info/1013/1089.htm). Before my PhD study, I was a master student at Beihang University (BUAA). I received my B.Eng. degree from Harbin Engineering University (HEU) in 2018.
 
 My research interest includes **Multimodal Perception**, **Multisource Data Fusion** and **Remote Sensing**. 
 
 
 # 🔥 News
+- *2024/12* :&nbsp; 🎉🎉 Passed the doctoral dissertation defense.
 - *2024/08* :&nbsp; 🎉🎉 One paper is accepted to ECAI ([SFDFusion](https://arxiv.org/abs/2410.22837)).
 - *2024/03* :&nbsp; 🎉🎉 One paper is accepted to TGRS ([C2Former](https://ieeexplore.ieee.org/abstract/document/10472947)).
 - *2023/12* :&nbsp; 🎉🎉 One paper is accepted to INFS ([CAGT](https://www.sciencedirect.com/science/article/pii/S1566253524000241)).
