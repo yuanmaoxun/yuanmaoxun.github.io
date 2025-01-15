@@ -18,8 +18,9 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 # 🔥 News
 - *2025/01* :&nbsp; 🏆️🏆️ [C2Former](https://ieeexplore.ieee.org/abstract/document/10472947) becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
-- *2024/12* :&nbsp; 🎉🎉 Passed the doctoral dissertation defense.
+- *2024/12* :&nbsp; 🎆🎆 Passed the doctoral dissertation defense.
 - *2024/08* :&nbsp; 🎉🎉 One paper is accepted to ECAI ([SFDFusion](https://arxiv.org/abs/2410.22837)).
+- *2024/05* :&nbsp; 🚀🚀 [C2Former](https://ieeexplore.ieee.org/abstract/document/10472947) becomes a <b><font color="red">Popular Article</font></b> of TGRS.
 - *2024/03* :&nbsp; 🎉🎉 One paper is accepted to TGRS ([C2Former](https://ieeexplore.ieee.org/abstract/document/10472947)).
 - *2023/12* :&nbsp; 🎉🎉 One paper is accepted to INFS ([CAGT](https://www.sciencedirect.com/science/article/pii/S1566253524000241)).
 - *2023/07* :&nbsp; 🎉🎉 One paper is accepted to PR ([APA](https://www.sciencedirect.com/science/article/pii/S0031320323001668)).
