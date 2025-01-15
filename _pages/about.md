@@ -17,6 +17,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 
 # 🔥 News
+- *2025/01* :&nbsp; 🏆️🏆️ [C2Former](https://ieeexplore.ieee.org/abstract/document/10472947) becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
 - *2024/12* :&nbsp; 🎉🎉 Passed the doctoral dissertation defense.
 - *2024/08* :&nbsp; 🎉🎉 One paper is accepted to ECAI ([SFDFusion](https://arxiv.org/abs/2410.22837)).
 - *2024/03* :&nbsp; 🎉🎉 One paper is accepted to TGRS ([C2Former](https://ieeexplore.ieee.org/abstract/document/10472947)).
@@ -61,6 +62,9 @@ Tianyi Zhao\*, **<u>Maoxun Yuan</u>***, Feng Jiang, Nan Wang, Xingxing Wei.
 _IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024_
 
 📃[**Paper**](https://ieeexplore.ieee.org/abstract/document/10472947)     💾[**Code**](https://github.com/yuanmaoxun/C2Former)   ![img](https://img.shields.io/github/stars/yuanmaoxun/C2Former?style=social) 
+
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b> 
+
 </div>
 </div>
 
