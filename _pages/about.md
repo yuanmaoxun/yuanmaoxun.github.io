@@ -130,11 +130,14 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- IEEE Transactions on Automation Science and Engineering (TASE)
+- ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
 - Neurocomputing
 - The Journal of Supercomputing
 - Machine Vision and Applications
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)
 - International Journal of Digital Earth (IJDE)
+- International Journal of Machine Learning and Cybernetics (IJMLC)
 
 <!-- # 🎖 Honors and Awards
 - Academic Innovation Achievement Awards for Doctoral Students, Beihang University, 2023/2024
