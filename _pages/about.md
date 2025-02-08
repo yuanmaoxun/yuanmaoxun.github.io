@@ -132,6 +132,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - IEEE Transactions on Automation Science and Engineering (TASE)
 - ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
+- Information Fusion (INFS)
 - Neurocomputing
 - The Journal of Supercomputing
 - Machine Vision and Applications
