@@ -121,7 +121,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 
 # 💻 Academic Services
 ### **Conference Reviewer:** 
-- CVPR (2023-2025), ICCV (2023), ECCV (2022/2024)
+- CVPR (2023-2025), ICCV (2023/2025), ECCV (2022/2024)
 - ACM MM (2023-2024), AAAI (2024)
 - ACCV (2024), ICME  (2025), IGARSS (2025)
 
