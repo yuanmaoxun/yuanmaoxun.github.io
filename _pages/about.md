@@ -29,7 +29,19 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 
 
-# 📝 Publications 
+# 📝 Publications
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/M2D-LIF.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning](https://arxiv.org/abs/2503.11780)
+
+Tianyi Zhao\*, Boyang Liu\*, Yanglei Gao, Yiming Sun, **<u>Maoxun Yuan</u>**, Xingxing Wei
+
+📃[**Paper**](https://arxiv.org/abs/2503.11780)  
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/UniRGB-IR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
