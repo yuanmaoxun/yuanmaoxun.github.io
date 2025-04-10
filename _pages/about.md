@@ -17,7 +17,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 
 # 🔥 News
-- *2024/03* :&nbsp; 🎉🎉 One paper related to Multimodal Object Detection (MAFF) is accepted by IGRASS 2025.
+- *2024/03* :&nbsp; 🎉🎉 One paper is accepted to IGRASS 2025 (MAFF).
 - *2025/01* :&nbsp; 🏆️🏆️ [C2Former](https://ieeexplore.ieee.org/abstract/document/10472947) becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
 - *2024/12* :&nbsp; 🎆🎆 Passed the doctoral dissertation defense.
 - *2024/08* :&nbsp; 🎉🎉 One paper is accepted to ECAI ([SFDFusion](https://arxiv.org/abs/2410.22837)).
