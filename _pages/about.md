@@ -11,10 +11,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I received my Ph.D degrees in from the School of Computer Science and Engineering, Beihang University (BUAA), supervised by Prof. [Xingxing Wei](https://sites.google.com/site/xingxingwei1988/) and [Bo Li](https://iai.buaa.edu.cn/info/1013/1089.htm). Before my PhD study, I was a master student at Beihang University (BUAA). I received my B.Eng. degree from Harbin Engineering University (HEU) in 2018.
+Maoxun Yuan has joined the Postdoctoral Program at Beihang University. I received my Ph.D degrees in from the School of Computer Science and Engineering, Beihang University (BUAA), supervised by Prof. [Xingxing Wei](https://sites.google.com/site/xingxingwei1988/) and [Bo Li](https://iai.buaa.edu.cn/info/1013/1089.htm). Before my PhD study, I was a master student at Beihang University (BUAA). I received my B.Eng. degree from Harbin Engineering University (HEU) in 2018.
 
 My research interest includes **Multimodal Perception**, **Multisource Data Fusion** and **Remote Sensing**. 
 
+<!-- Welcome self-motivated students who are interest in related research topics for collaboration. Feel free to contact me. -->
 
 # 🔥 News
 - *2024/03* :&nbsp; 🎉🎉 One paper is accepted to IGRASS 2025 (MAFF).
@@ -135,7 +136,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 # 💻 Academic Services
 ### **Conference Reviewer:** 
 - CVPR (2023-2025), ICCV (2023/2025), ECCV (2022/2024)
-- ACM MM (2023-2024), AAAI (2024)
+- ACM MM (2023-2025), AAAI (2024)
 - ACCV (2024), ICME  (2025), IGARSS (2025)
 
 ### **Journal Reviewer:** 
