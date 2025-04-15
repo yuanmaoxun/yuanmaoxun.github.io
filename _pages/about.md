@@ -18,7 +18,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 <i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i>
 
 <!-- # 🔥 News -->
-<h2>News</h2>
+<h1>🔥 News</h1>
 <div style="height: 150px; overflow: auto;">
 <li>
       [03/2025]  :&nbsp; 🎉🎉 One paper is accepted to IGRASS 2025 (MAFF).
