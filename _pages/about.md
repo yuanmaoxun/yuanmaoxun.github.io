@@ -40,7 +40,6 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 </li>
 <li>
       [12/2023] :&nbsp; 🎉🎉 One paper is accepted to INFS (<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGT</a>).
- :&nbsp; 🎉🎉 One paper is accepted to INFS (<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGT</a>).
 </li>
 <li>
       [07/2023] :&nbsp; 🎉🎉 One paper is accepted to PR (<a href="https://www.sciencedirect.com/science/article/pii/S0031320323001668">APA</a>).
