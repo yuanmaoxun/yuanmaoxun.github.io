@@ -15,7 +15,7 @@ Maoxun Yuan has joined the Postdoctoral Program at Beihang University. I receive
 
 My research interest includes **Multimodal Perception**, **Multisource Data Fusion** and **Remote Sensing**. 
 
-<!-- Welcome self-motivated students who are interest in related research topics for collaboration. Feel free to contact me. -->
+<i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i>
 
 # 🔥 News
 - *2024/03* :&nbsp; 🎉🎉 One paper is accepted to IGRASS 2025 (MAFF).
