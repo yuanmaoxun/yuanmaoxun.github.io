@@ -17,19 +17,43 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 <i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i>
 
-# 🔥 News
-- *2024/03* :&nbsp; 🎉🎉 One paper is accepted to IGRASS 2025 (MAFF).
-- *2025/01* :&nbsp; 🏆️🏆️ [C2Former](https://ieeexplore.ieee.org/abstract/document/10472947) becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
-- *2024/12* :&nbsp; 🎆🎆 Passed the doctoral dissertation defense.
-- *2024/08* :&nbsp; 🎉🎉 One paper is accepted to ECAI ([SFDFusion](https://arxiv.org/abs/2410.22837)).
-- *2024/05* :&nbsp; 🚀🚀 [C2Former](https://ieeexplore.ieee.org/abstract/document/10472947) becomes a <b><font color="red">Popular Article</font></b> of TGRS.
-- *2024/03* :&nbsp; 🎉🎉 One paper is accepted to TGRS ([C2Former](https://ieeexplore.ieee.org/abstract/document/10472947)).
-- *2023/12* :&nbsp; 🎉🎉 One paper is accepted to INFS ([CAGT](https://www.sciencedirect.com/science/article/pii/S1566253524000241)).
-- *2023/07* :&nbsp; 🎉🎉 One paper is accepted to PR ([APA](https://www.sciencedirect.com/science/article/pii/S0031320323001668)).
-- *2022/07* :&nbsp; 🎉🎉 One paper is accepted to ECCV 2022 ([TSFADet](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30)).
-- *2021/08* :&nbsp; 🆕🆕 We creat a new repository to collect [RGB-T-Fusion methods](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion)&nbsp; ![img](https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social). 
+<!-- # 🔥 News -->
+<h2>News</h2>
+<div style="height: 150px; overflow: auto;">
+<li>
+      [03/2025]  :&nbsp; 🎉🎉 One paper is accepted to IGRASS 2025 (MAFF).
+</li>
+<li>
+      [01/2025]  :&nbsp; 🏆️🏆️ <a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a> becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
+</li>
+<li>
+      [12/2024]  :&nbsp; 🎆🎆 Passed the doctoral dissertation defense.
+</li>
+<li>
+      [08/2024] :&nbsp; 🎉🎉 One paper is accepted to ECAI (<a href="https://arxiv.org/abs/2410.22837">SFDFusion</a>).
+</li>
+<li>
+      [05/2024] :&nbsp; 🚀🚀 <a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a> becomes a <b><font color="red">Popular Article</font></b> of TGRS.
+</li>
+<li>
+      [03/2024] :&nbsp; 🎉🎉 One paper is accepted to TGRS (<a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a>).
+</li>
+<li>
+      [12/2023] :&nbsp; 🎉🎉 One paper is accepted to INFS (<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGT</a>).
+ :&nbsp; 🎉🎉 One paper is accepted to INFS (<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGT</a>).
+</li>
+<li>
+      [07/2023] :&nbsp; 🎉🎉 One paper is accepted to PR (<a href="https://www.sciencedirect.com/science/article/pii/S0031320323001668">APA</a>).
+</li>
+<li>
+      [07/2022] :&nbsp; 🎉🎉 One paper is accepted to ECCV 2022 (<a href="https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30">TSFADet</a>).
+</li>
 
-
+<li>
+      [08/2021] :&nbsp; 🆕🆕 We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> &nbsp; <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
+</li>
+</div>
+<div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ scrollable</div>
 
 # 📝 Publications
 
