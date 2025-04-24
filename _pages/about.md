@@ -21,6 +21,10 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 <h1>🔥 News</h1>
 <div style="height: 150px; overflow: auto;">
 <li>
+      [08/2021] :&nbsp; 🆕🆕 We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> &nbsp; <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/ top:0;>.
+</li>
+
+<li>
       [03/2025]  :&nbsp; 🎉🎉 One paper is accepted to IGRASS 2025 (MAFF).
 </li>
 <li>
@@ -48,9 +52,6 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       [07/2022] :&nbsp; 🎉🎉 One paper is accepted to ECCV 2022 (<a href="https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30">TSFADet</a>).
 </li>
 
-<li>
-      [08/2021] :&nbsp; 🆕🆕 We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> &nbsp; <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
-</li>
 </div>
 <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ scrollable</div>
 
