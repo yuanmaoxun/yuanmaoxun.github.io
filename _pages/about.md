@@ -72,7 +72,7 @@ Tianyi Zhao\*, Boyang Liu\*, Yanglei Gao, Yiming Sun, **<u>Maoxun Yuan</u>**, Xi
 <div class='paper-box-text' markdown="1">
 [UniRGB-IR: A Unified Framework for RGB-Infrared Semantic Tasks via Adapter Tuning](https://arxiv.org/abs/2404.17360)
 
-**<u>Maoxun Yuan</u>***, Bo Cui\*, Tianyi Zhao, Jiayi Wang, Shan Fu, Xingxing Wei.
+**<u>Maoxun Yuan</u>***, Bo Cui\*, Tianyi Zhao, Jiayi Wang, Shan Fu, Xue Yang, Xingxing Wei.
 <!-- _IEEE Transactions on Image Processing(**TIP**), 2024_ -->
 
 📃[**Paper**](https://arxiv.org/abs/2404.17360)     💾[**Code**](https://github.com/PoTsui99/UniRGB-IR) ![img](https://img.shields.io/github/stars/PoTsui99/UniRGB-IR?style=social) 
