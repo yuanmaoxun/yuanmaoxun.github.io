@@ -83,7 +83,7 @@ Tianyi Zhao\*, Boyang Liu\*, Yanglei Gao, Yiming Sun, **<u>Maoxun Yuan</u>**, Xi
 <div class='paper-box-text' markdown="1">
 [Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection](https://arxiv.org/abs/2401.10731)
 
-Tianyi Zhao\*, **<u>Maoxun Yuan</u>***, Feng Jiang, Nan Wang, Xingxing Wei.
+Tianyi Zhao\*, **<u>Maoxun Yuan</u>***, Feng Jiang, Nan Wang, Xingxing Wei (Supervisor).
 
 <!-- _IEEE Transactions on Intelligent Transportation Systems(**TITS**), 2024_ -->
 
