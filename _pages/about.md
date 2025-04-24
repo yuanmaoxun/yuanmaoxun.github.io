@@ -21,7 +21,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 <h1>🔥 News</h1>
 <div style="height: 150px; overflow: auto;">
 <li>
-      [08/2021] :&nbsp; 🆕🆕 We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> &nbsp; <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/ top:0;>.
+      [08/2021] :&nbsp; 🆕🆕 We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> &nbsp; <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 
 <li>
