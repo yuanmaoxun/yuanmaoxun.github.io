@@ -23,7 +23,9 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 <li>
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
-
+<li>
+      [06/2025]  :&nbsp; 🎉🎉 One paper is accepted to ICCV 2025 (<a href="https://arxiv.org/abs/2503.11780">M2D-LIF</a>).
+</li>
 <li>
       [03/2025]  :&nbsp; 🎉🎉 One paper is accepted to IGRASS 2025 (MAFF).
 </li>
@@ -59,7 +61,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/M2D-LIF.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/M2D-LIF.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning](https://arxiv.org/abs/2503.11780)
 
@@ -168,6 +170,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Automation Science and Engineering (TASE)
 - ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
 - Information Fusion (INFS)
