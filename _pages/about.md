@@ -67,7 +67,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 Tianyi Zhao, Boyang Liu, Yanglei Gao, Yiming Sun, **<u>Maoxun Yuan</u>**\*, Xingxing Wei\*.
 
-📃[**Paper**](https://arxiv.org/abs/2503.11780)  
+📃[**Paper**](https://arxiv.org/abs/2503.11780)  💾[**Code**](https://github.com/Zhao-Tian-yi/M2D-LIF) ![img](https://img.shields.io/github/stars/Zhao-Tian-yi/M2D-LIF?style=social) 
 </div>
 </div>
 
