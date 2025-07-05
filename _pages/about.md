@@ -24,7 +24,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 <li>
-      [07/2025]  :&nbsp; 🎉🎉 One paper is accepted to ACM MM 2025 (<a href="https://arxiv.org/abs/2404.17360">UniRGB-IR</a>).
+      [07/2025]  :&nbsp; 🎉🎉 One paper is accepted to ACMMM 2025 (<a href="https://arxiv.org/abs/2404.17360">UniRGB-IR</a>).
 </li>
 <li>
       [06/2025]  :&nbsp; 🎉🎉 One paper is accepted to ICCV 2025 (<a href="https://arxiv.org/abs/2503.11780">M2D-LIF</a>).
@@ -62,7 +62,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/UniRGB-IR.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/UniRGB-IR.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [UniRGB-IR: A Unified Framework for RGB-Infrared Semantic Tasks via Adapter Tuning](https://arxiv.org/abs/2404.17360)
 
