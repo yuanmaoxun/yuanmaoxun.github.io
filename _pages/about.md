@@ -15,13 +15,16 @@ I have joined the Postdoctoral Program at Beihang University. I received my Ph.D
 
 My research interest includes **Multimodal Perception**, **Multisource Data Fusion** and **Remote Sensing**. 
 
-<i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i>
+<i style="color: red; display: inline;"><b>Feel free to contact me by email if you are interested in discussing or collaborating with me.</b></i>
 
 <!-- # 🔥 News -->
 <h1>🔥 News</h1>
 <div style="height: 150px; overflow: auto;">
 <li>
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
+</li>
+<li>
+      [07/2025]  :&nbsp; 🏆️🏆️ <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGTDet</a> becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
 </li>
 <li>
       [07/2025]  :&nbsp; 🎉🎉 One paper is accepted to ACMMM 2025 (<a href="https://arxiv.org/abs/2404.17360">UniRGB-IR</a>).
@@ -48,7 +51,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       [03/2024] :&nbsp; 🎉🎉 One paper is accepted to TGRS (<a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a>).
 </li>
 <li>
-      [12/2023] :&nbsp; 🎉🎉 One paper is accepted to INFS (<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGT</a>).
+      [12/2023] :&nbsp; 🎉🎉 One paper is accepted to INFS (<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGTDet</a>).
 </li>
 <li>
       [07/2023] :&nbsp; 🎉🎉 One paper is accepted to PR (<a href="https://www.sciencedirect.com/science/article/pii/S0031320323001668">APA</a>).
@@ -162,7 +165,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 # 💻 Academic Services
 ### **Conference Reviewer:** 
 - CVPR (2023-2025), ICCV (2023/2025), ECCV (2022/2024)
-- ACM MM (2023-2025), AAAI (2024)
+- ACM MM (2023-2025), AAAI (2025)
 - ACCV (2024), ICME  (2025), IGARSS (2025)
 
 ### **Journal Reviewer:** 
