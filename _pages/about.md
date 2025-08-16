@@ -71,7 +71,12 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 **<u>Maoxun Yuan</u>**, Duanni Meng, Ziteng Xi, Tianyi Zhao, Shiji Zhao, Yimian Dai, Xingxing Wei (Supervisor).
 
-_Arxiv, 2025_
+<!-- _Arxiv, 2025_ -->
+
+📃[**Paper**](https://arxiv.org/pdf/2508.06878)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/UniRGB-IR.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
