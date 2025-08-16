@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I have joined the Postdoctoral Program at Beihang University. I received my Ph.D degrees in from the School of Computer Science and Engineering, Beihang University (BUAA), supervised by Prof. [Xingxing Wei](https://sites.google.com/site/xingxingwei1988/) and [Bo Li](https://iai.buaa.edu.cn/info/1013/1089.htm). Before my PhD study, I was a master student at Beihang University (BUAA). I received my B.Eng. degree from Harbin Engineering University (HEU) in 2018.
+I have joined the Postdoctoral Program at Beihang University. I received my Ph.D degrees from the School of Computer Science and Engineering, Beihang University (BUAA), supervised by Prof. [Xingxing Wei](https://sites.google.com/site/xingxingwei1988/) and [Bo Li](https://iai.buaa.edu.cn/info/1013/1089.htm). 
 
 My research interest includes **Multimodal Perception**, **Multisource Data Fusion** and **Remote Sensing**. 
 
@@ -64,6 +64,14 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ scrollable</div>
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/NS-FPN.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[NS-FPN: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective](https://arxiv.org/pdf/2508.06878)
+
+**<u>Maoxun Yuan</u>**, Duanni Meng, Ziteng Xi, Tianyi Zhao, Shiji Zhao, Yimian Dai, Xingxing Wei (Supervisor).
+
+_Arxiv, 2025_
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/UniRGB-IR.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -172,7 +180,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 # 💻 Academic Services
 ### **Conference Reviewer:** 
 - CVPR (2023-2025), ICCV (2023/2025), ECCV (2022/2024)
-- ACM MM (2023-2025), AAAI (2025)
+- ACM MM (2023-2025), AAAI (2025/2026)
 - ACCV (2024), ICME  (2025), IGARSS (2025)
 
 ### **Journal Reviewer:** 
@@ -184,10 +192,12 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - IEEE Transactions on Automation Science and Engineering (TASE)
 - ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
 - Information Fusion (INFS)
+- Neural Networks
 - Neurocomputing
 - The Journal of Supercomputing
 - Machine Vision and Applications
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)
+- IEEE Geoscience and Remote Sensing Letters
 - International Journal of Digital Earth (IJDE)
 - International Journal of Machine Learning and Cybernetics (IJMLC)
 
