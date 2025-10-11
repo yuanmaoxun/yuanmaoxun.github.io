@@ -24,7 +24,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 <li>
-      [09/2025]  :&nbsp; 🎉🎉 One paper is accepted by 计算机辅助设计与图形学学报 (Journal of Computer-Aided Design & Computer Graphics, CCF-A).
+      [09/2025]  :&nbsp; 🎉🎉 One paper is accepted by 计算机辅助设计与图形学学报 (Journal of Computer-Aided Design & Computer Graphics).
 </li>
 <li>
       [07/2025]  :&nbsp; 🏆️🏆️ <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGTDet</a> becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
