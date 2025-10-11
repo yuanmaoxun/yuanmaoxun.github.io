@@ -24,19 +24,19 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 <li>
-      [09/2025]  :&nbsp; 🎉🎉 One paper is accepted to 计算机辅助设计与图形学学报 (Journal of Computer-Aided Design & Computer Graphics, CCF-A).
+      [09/2025]  :&nbsp; 🎉🎉 One paper is accepted by 计算机辅助设计与图形学学报 (Journal of Computer-Aided Design & Computer Graphics, CCF-A).
 </li>
 <li>
       [07/2025]  :&nbsp; 🏆️🏆️ <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGTDet</a> becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
 </li>
 <li>
-      [07/2025]  :&nbsp; 🎉🎉 One paper is accepted to ACMMM 2025 (<a href="https://arxiv.org/abs/2404.17360">UniRGB-IR</a>).
+      [07/2025]  :&nbsp; 🎉🎉 One paper is accepted by ACMMM 2025 (<a href="https://arxiv.org/abs/2404.17360">UniRGB-IR</a>).
 </li>
 <li>
-      [06/2025]  :&nbsp; 🎉🎉 One paper is accepted to ICCV 2025 (<a href="https://arxiv.org/abs/2503.11780">M2D-LIF</a>).
+      [06/2025]  :&nbsp; 🎉🎉 One paper is accepted by ICCV 2025 (<a href="https://arxiv.org/abs/2503.11780">M2D-LIF</a>).
 </li>
 <li>
-      [03/2025]  :&nbsp; 🎉🎉 One paper is accepted to IGRASS 2025 (MAFF).
+      [03/2025]  :&nbsp; 🎉🎉 One paper is accepted by IGRASS 2025 (MAFF).
 </li>
 <li>
       [01/2025]  :&nbsp; 🏆️🏆️ <a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a> becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
@@ -45,22 +45,22 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       [12/2024]  :&nbsp; 🎆🎆 Passed the doctoral dissertation defense.
 </li>
 <li>
-      [08/2024] :&nbsp; 🎉🎉 One paper is accepted to ECAI (<a href="https://arxiv.org/abs/2410.22837">SFDFusion</a>).
+      [08/2024] :&nbsp; 🎉🎉 One paper is accepted by ECAI (<a href="https://arxiv.org/abs/2410.22837">SFDFusion</a>).
 </li>
 <li>
       [05/2024] :&nbsp; 🚀🚀 <a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a> becomes a <b><font color="red">Popular Article</font></b> of TGRS.
 </li>
 <li>
-      [03/2024] :&nbsp; 🎉🎉 One paper is accepted to TGRS (<a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a>).
+      [03/2024] :&nbsp; 🎉🎉 One paper is accepted by TGRS (<a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a>).
 </li>
 <li>
-      [12/2023] :&nbsp; 🎉🎉 One paper is accepted to INFS (<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGTDet</a>).
+      [12/2023] :&nbsp; 🎉🎉 One paper is accepted by INFS (<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGTDet</a>).
 </li>
 <li>
-      [07/2023] :&nbsp; 🎉🎉 One paper is accepted to PR (<a href="https://www.sciencedirect.com/science/article/pii/S0031320323001668">APA</a>).
+      [07/2023] :&nbsp; 🎉🎉 One paper is accepted by PR (<a href="https://www.sciencedirect.com/science/article/pii/S0031320323001668">APA</a>).
 </li>
 <li>
-      [07/2022] :&nbsp; 🎉🎉 One paper is accepted to ECCV 2022 (<a href="https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30">TSFADet</a>).
+      [07/2022] :&nbsp; 🎉🎉 One paper is accepted by ECCV 2022 (<a href="https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30">TSFADet</a>).
 </li>
 
 </div>
