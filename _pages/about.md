@@ -24,6 +24,9 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 <li>
+      [10/2025] :&nbsp; 🎉🎉 One paper is accepted by TITS (<a href="https://arxiv.org/abs/2401.10731">RSDet</a>).
+</li>
+<li>
       [09/2025]  :&nbsp; 🎉🎉 One paper is accepted by 计算机辅助设计与图形学学报 (Journal of Computer-Aided Design & Computer Graphics).
 </li>
 <li>
@@ -107,7 +110,7 @@ _IEEE International Conference on Computer Vision (**ICCV**), 2025_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/RSDet.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='images/RSDet.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection](https://arxiv.org/abs/2401.10731)
 
@@ -187,7 +190,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 
 # 💻 Academic Services
 ### **Conference Reviewer:** 
-- CVPR (2023-2025), ICCV (2023/2025), ECCV (2022/2024)
+- CVPR (2023-2026), ICCV (2023/2025), ECCV (2022/2024)
 - ACM MM (2023-2025), AAAI (2025/2026)
 - ACCV (2024), ICME  (2025), IGARSS (2025)
 
@@ -198,6 +201,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Pattern Recognition (PR)
 - IEEE Transactions on Automation Science and Engineering (TASE)
 - ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
 - Information Fusion (INFS)
