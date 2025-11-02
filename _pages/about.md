@@ -116,7 +116,7 @@ _IEEE International Conference on Computer Vision (**ICCV**), 2025_
 
 Tianyi Zhao\*, **<u>Maoxun Yuan</u>***, Feng Jiang, Nan Wang, Xingxing Wei (Supervisor).
 
-<!-- _IEEE Transactions on Intelligent Transportation Systems(**TITS**), 2024_ -->
+_IEEE Transactions on Intelligent Transportation Systems(**TITS**), 2025_
 
 📃[**Paper**](https://arxiv.org/abs/2401.10731)     💾[**Code**](https://github.com/Zhao-Tian-yi/RSDet)    ![img](https://img.shields.io/github/stars/Zhao-Tian-yi/RSDet?style=social) 
 </div>
