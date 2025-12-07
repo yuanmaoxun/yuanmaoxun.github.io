@@ -112,11 +112,11 @@ _IEEE International Conference on Computer Vision (**ICCV**), 2025_
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='images/RSDet.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection](https://arxiv.org/abs/2401.10731)
+[Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection](https://ieeexplore.ieee.org/document/11278552)
 
 Tianyi Zhao\*, **<u>Maoxun Yuan</u>***, Feng Jiang, Nan Wang, Xingxing Wei (Supervisor).
 
-_IEEE Transactions on Intelligent Transportation Systems(**TITS**), 2025_
+_IEEE Transactions on Intelligent Transportation Systems (**TITS**), 2025_
 
 📃[**Paper**](https://arxiv.org/abs/2401.10731)     💾[**Code**](https://github.com/Zhao-Tian-yi/RSDet)    ![img](https://img.shields.io/github/stars/Zhao-Tian-yi/RSDet?style=social) 
 </div>
@@ -207,6 +207,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - Information Fusion (INFS)
 - Neural Networks
 - Neurocomputing
+- Engineering Applications of Artificial Intelligence (EAAI)
 - The Journal of Supercomputing
 - Computer Vision and Image Understanding (CVIU)
 - Machine Vision and Applications
