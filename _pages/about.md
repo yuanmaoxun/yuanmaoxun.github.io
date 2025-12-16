@@ -24,7 +24,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 <li>
-      [10/2025] :&nbsp; 🎉🎉 One paper is accepted by TITS (<a href="https://arxiv.org/abs/2401.10731">RSDet</a>).
+      [10/2025] :&nbsp; 🎉🎉 One paper is accepted by TITS (<a href="https://ieeexplore.ieee.org/document/11278552/">RSDet</a>).
 </li>
 <li>
       [09/2025]  :&nbsp; 🎉🎉 One paper is accepted by 计算机辅助设计与图形学学报 (Journal of Computer-Aided Design & Computer Graphics).
@@ -33,13 +33,13 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       [07/2025]  :&nbsp; 🏆️🏆️ <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000241">CAGTDet</a> becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
 </li>
 <li>
-      [07/2025]  :&nbsp; 🎉🎉 One paper is accepted by ACMMM 2025 (<a href="https://arxiv.org/abs/2404.17360">UniRGB-IR</a>).
+      [07/2025]  :&nbsp; 🎉🎉 One paper is accepted by ACMMM 2025 (<a href="https://dl.acm.org/doi/10.1145/3746027.3754806">UniRGB-IR</a>).
 </li>
 <li>
-      [06/2025]  :&nbsp; 🎉🎉 One paper is accepted by ICCV 2025 (<a href="https://arxiv.org/abs/2503.11780">M2D-LIF</a>).
+      [06/2025]  :&nbsp; 🎉🎉 One paper is accepted by ICCV 2025 (<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Rethinking_Multi-modal_Object_Detection_from_the_Perspective_of_Mono-Modality_Feature_ICCV_2025_paper.pdf">M2D-LIF</a>).
 </li>
 <li>
-      [03/2025]  :&nbsp; 🎉🎉 One paper is accepted by IGRASS 2025 (MAFF).
+      [03/2025]  :&nbsp; 🎉🎉 One paper is accepted by IGRASS 2025 (MAFF)(<a href="https://ieeexplore.ieee.org/document/11242257">MAFF</a>).
 </li>
 <li>
       [01/2025]  :&nbsp; 🏆️🏆️ <a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a> becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
