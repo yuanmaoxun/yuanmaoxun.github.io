@@ -39,7 +39,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       [06/2025]  :&nbsp; 🎉🎉 One paper is accepted by ICCV 2025 (<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Rethinking_Multi-modal_Object_Detection_from_the_Perspective_of_Mono-Modality_Feature_ICCV_2025_paper.pdf">M2D-LIF</a>).
 </li>
 <li>
-      [03/2025]  :&nbsp; 🎉🎉 One paper is accepted by IGRASS 2025 (MAFF)(<a href="https://ieeexplore.ieee.org/document/11242257">MAFF</a>).
+      [03/2025]  :&nbsp; 🎉🎉 One paper is accepted by IGRASS 2025 (<a href="https://ieeexplore.ieee.org/document/11242257">MAFF</a>).
 </li>
 <li>
       [01/2025]  :&nbsp; 🏆️🏆️ <a href="https://ieeexplore.ieee.org/abstract/document/10472947">C2Former</a> becomes <b><font color="red">ESI Highly Cited Paper</font></b>.
