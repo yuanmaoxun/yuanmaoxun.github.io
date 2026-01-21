@@ -24,6 +24,9 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 <li>
+      [01/2026] :&nbsp; 🎉🎉 We release RGBT-Ground Benchmark (<a href="https://arxiv.org/pdf/2512.24561">RGBT-Ground</a>).
+</li>
+<li>
       [10/2025] :&nbsp; 🎉🎉 One paper is accepted by TITS (<a href="https://ieeexplore.ieee.org/document/11278552/">RSDet</a>).
 </li>
 <li>
@@ -70,6 +73,21 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ scrollable</div>
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/RGBT-VGNet.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios](https://arxiv.org/abs/2512.24561)
+
+Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, **<u>Maoxun Yuan</u>**\*, Xingxing Wei.
+
+<!-- _Arxiv, 2026_ -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SEF-DETR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection](https://arxiv.org/abs/2601.02837)
+
+Yuteng Liu, Duanni Meng, **<u>Maoxun Yuan</u>**\*, Xingxing Wei
+<!-- _Arxiv, 2026_ -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/NS-FPN.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
