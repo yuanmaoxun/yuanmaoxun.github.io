@@ -80,6 +80,10 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, **<u>Maoxun Yuan</u>**\*, Xingxing Wei.
 
+📃[**Paper**](https://arxiv.org/abs/2512.24561)     💾[**Code**](https://github.com/crazyxiaoxi/RGBTVG) ![img](https://img.shields.io/github/stars/crazyxiaoxi/RGBTVG?style=social) 
+</div>
+</div>
+
 <!-- _Arxiv, 2026_ -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SEF-DETR.png' alt="sym" width="80%"></div></div>
@@ -88,12 +92,16 @@ Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, **<u>Maoxun Yuan</u>**
 
 Yuteng Liu, Duanni Meng, **<u>Maoxun Yuan</u>**\*, Xingxing Wei
 <!-- _Arxiv, 2026_ -->
+📃[**Paper**](https://arxiv.org/abs/2601.02837)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/NS-FPN.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [NS-FPN: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective](https://arxiv.org/pdf/2508.06878)
 
-**<u>Maoxun Yuan</u>**, Duanni Meng, Ziteng Xi, Tianyi Zhao, Shiji Zhao, Yimian Dai, Xingxing Wei (Supervisor).
+**<u>Maoxun Yuan</u>**, Duanni Meng, Ziteng Xi, Tianyi Zhao, Shiji Zhao, Yimian Dai, Xingxing Wei.
 
 <!-- _Arxiv, 2025_ -->
 
