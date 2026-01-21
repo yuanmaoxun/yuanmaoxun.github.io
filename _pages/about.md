@@ -80,20 +80,23 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, **<u>Maoxun Yuan</u>**\*, Xingxing Wei.
 
+<!-- _Arxiv, 2026_ -->
+
 📃[**Paper**](https://arxiv.org/abs/2512.24561)     💾[**Code**](https://github.com/crazyxiaoxi/RGBTVG) ![img](https://img.shields.io/github/stars/crazyxiaoxi/RGBTVG?style=social) 
 </div>
 </div>
 
-<!-- _Arxiv, 2026_ -->
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SEF-DETR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection](https://arxiv.org/abs/2601.02837)
 
 Yuteng Liu, Duanni Meng, **<u>Maoxun Yuan</u>**\*, Xingxing Wei
-<!-- _Arxiv, 2026_ -->
-📃[**Paper**](https://arxiv.org/abs/2601.02837)
 
+<!-- _Arxiv, 2026_ -->
+
+📃[**Paper**](https://arxiv.org/abs/2601.02837)
 </div>
 </div>
 
