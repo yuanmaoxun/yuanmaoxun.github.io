@@ -24,6 +24,9 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 <li>
+      [02/2026] :&nbsp; 🎉🎉 One paper is accepted by CVPR 2026 (<a href="https://arxiv.org/pdf/2508.06878">NS-FPN</a>).
+</li>
+<li>
       [01/2026] :&nbsp; 🎉🎉 We release RGBT-Ground Benchmark (<a href="https://arxiv.org/pdf/2512.24561">RGBT-Ground</a>).
 </li>
 <li>
@@ -100,15 +103,15 @@ Yuteng Liu, Duanni Meng, **<u>Maoxun Yuan</u>**\*, Xingxing Wei
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/NS-FPN.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/NS-FPN5.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[NS-FPN: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective](https://arxiv.org/pdf/2508.06878)
+[Seeing Through the Noise: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective](https://arxiv.org/pdf/2508.06878)
 
 **<u>Maoxun Yuan</u>**, Duanni Meng, Ziteng Xi, Tianyi Zhao, Shiji Zhao, Yimian Dai, Xingxing Wei.
 
-<!-- _Arxiv, 2025_ -->
+_Computer Vision and Pattern Recognition (**CVPR**), 2026_
 
-📃[**Paper**](https://arxiv.org/pdf/2508.06878)
+📃[**Paper**](https://arxiv.org/pdf/2508.06878)💾[**Code**](https://github.com/mengduann/NS-FPN) ![img](https://img.shields.io/github/stars/mengduann/NS-FPN?style=social) 
 
 </div>
 </div>
@@ -117,7 +120,7 @@ Yuteng Liu, Duanni Meng, **<u>Maoxun Yuan</u>**\*, Xingxing Wei
 <div class='paper-box-text' markdown="1">
 [UniRGB-IR: A Unified Framework for RGB-Infrared Semantic Tasks via Adapter Tuning](https://arxiv.org/abs/2404.17360)
 
-**<u>Maoxun Yuan</u>**, Bo Cui, Tianyi Zhao, Jiayi Wang, Shan Fu, Xue Yang, Xingxing Wei (Supervisor).
+**<u>Maoxun Yuan</u>**, Bo Cui, Tianyi Zhao, Jiayi Wang, Shan Fu, Xue Yang, Xingxing Wei.
 
 _ACM intemational conference on Multimedia (**ACM MM**), 2025_
 
@@ -130,7 +133,7 @@ _ACM intemational conference on Multimedia (**ACM MM**), 2025_
 <div class='paper-box-text' markdown="1">
 [Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning](https://arxiv.org/abs/2503.11780)
 
-Tianyi Zhao, Boyang Liu, Yanglei Gao, Yiming Sun, **<u>Maoxun Yuan</u>**\*, Xingxing Wei\*.
+Tianyi Zhao, Boyang Liu, Yanglei Gao, Yiming Sun, **<u>Maoxun Yuan</u>**\*, Xingxing Wei.
 
 _IEEE International Conference on Computer Vision (**ICCV**), 2025_
 
@@ -143,7 +146,7 @@ _IEEE International Conference on Computer Vision (**ICCV**), 2025_
 <div class='paper-box-text' markdown="1">
 [Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection](https://ieeexplore.ieee.org/document/11278552)
 
-Tianyi Zhao\*, **<u>Maoxun Yuan</u>***, Feng Jiang, Nan Wang, Xingxing Wei (Supervisor).
+Tianyi Zhao\*, **<u>Maoxun Yuan</u>***, Feng Jiang, Nan Wang, Xingxing Wei.
 
 _IEEE Transactions on Intelligent Transportation Systems (**TITS**), 2025_
 
@@ -155,7 +158,7 @@ _IEEE Transactions on Intelligent Transportation Systems (**TITS**), 2025_
 <div class='paper-box-text' markdown="1">
 [C<sup>2</sup>Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection](https://ieeexplore.ieee.org/abstract/document/10472947)
 
-**<u>Maoxun Yuan</u>** and Xingxing Wei (Supervisor).
+**<u>Maoxun Yuan</u>** and Xingxing Wei.
 
 _IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024_
 
@@ -183,7 +186,7 @@ _European Conference on Artificial Intelligence (**ECAI**), 2024_
 <div class='paper-box-text' markdown="1">
 [Improving RGB-infrared object detection with cascade alignment-guided transformer](https://www.sciencedirect.com/science/article/pii/S1566253524000241)
 
-**<u>Maoxun Yuan</u>**, Xiaorong Shi, Nan Wang, Yinyan Wang, and Xingxing Wei (Supervisor).
+**<u>Maoxun Yuan</u>**, Xiaorong Shi, Nan Wang, Yinyan Wang, and Xingxing Wei.
 
 _Information Fusion (**INFS**), 2024_
 
@@ -209,7 +212,7 @@ _Pattern Recognition (**PR**), 2023_
 <div class='paper-box-text' markdown="1">
 [Translation, scale and rotation: cross-modal alignment meets RGB-infrared vehicle detection](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_30)
 
-**<u>Maoxun Yuan</u>**, Yinyan Wang, and Xingxing Wei (Supervisor).
+**<u>Maoxun Yuan</u>**, Yinyan Wang, and Xingxing Wei.
 
 _European Conference on Computer Vision (**ECCV**), 2022_
 
@@ -225,6 +228,7 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 
 ### **Journal Reviewer:** 
 - IEEE Transactions on Image Processing (TIP)
+- International Journal of Computer Vision (IJCV)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
@@ -239,11 +243,9 @@ _European Conference on Computer Vision (**ECCV**), 2022_
 - Engineering Applications of Artificial Intelligence (EAAI)
 - The Journal of Supercomputing
 - Computer Vision and Image Understanding (CVIU)
-- Machine Vision and Applications
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)
 - IEEE Geoscience and Remote Sensing Letters (GRSL)
-- International Journal of Digital Earth (IJDE)
-- International Journal of Machine Learning and Cybernetics (IJMLC)
+
 
 <!-- # 🎖 Honors and Awards
 - Academic Innovation Achievement Awards for Doctoral Students, Beihang University, 2023/2024
