@@ -24,6 +24,9 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 <li>
+      [05/2026]  :&nbsp; 🚀🚀 <a href="https://ieeexplore.ieee.org/document/11278552">RSDet</a> becomes <b><font color="red">Popular Article</font></b> of TITS.
+</li>
+<li>
       [03/2026] :&nbsp; 🎉🎉 One paper is accepted by IJCV (<a href="https://arxiv.org/abs/2603.25170">KGAT</a>).
 </li>
 <li>
