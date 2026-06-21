@@ -86,13 +86,13 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/RGBT-VGNet.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/RGBT-VGNet.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios](https://arxiv.org/abs/2512.24561)
 
 Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, **<u>Maoxun Yuan</u>**\*, Xingxing Wei.
 
-<!-- _Arxiv, 2026_ -->
+_European Conference on Computer Vision (**ECCV**), 2026_
 
 📃[**Paper**](https://arxiv.org/abs/2512.24561)     💾[**Code**](https://github.com/crazyxiaoxi/RGBTVG) ![img](https://img.shields.io/github/stars/crazyxiaoxi/RGBTVG?style=social) 
 </div>
