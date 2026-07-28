@@ -24,6 +24,9 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
       ⬆[08/2021]: We creat a new repository to collect <a href="https://github.com/yuanmaoxun/Awesome-RGBT-Fusion">RGB-T-Fusion methods</a> <img src="https://img.shields.io/github/stars/yuanmaoxun/Awesome-RGBT-Fusion?style=social"/>.
 </li>
 <li>
+      [07/2026]  :&nbsp; 🎆🎆 Supported by the National Postdoctoral Researcher Funding Program (Category B).
+</li>
+<li>
       [06/2026] :&nbsp; 🎉🎉 One paper is accepted by ECCV 2026 (<a href="https://arxiv.org/pdf/2512.24561">RGBT-Ground</a>).
 </li>
 <li>
@@ -37,6 +40,9 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 </li>
 <li>
       [01/2026] :&nbsp; 🎉🎉 We release RGBT-Ground Benchmark (<a href="https://arxiv.org/pdf/2512.24561">RGBT-Ground</a>).
+</li>
+<li>
+      [11/2025]  :&nbsp; 🎆🎆 Supported by the China Postdoctoral Science Foundation General Program.
 </li>
 <li>
       [10/2025] :&nbsp; 🎉🎉 One paper is accepted by TITS (<a href="https://ieeexplore.ieee.org/document/11278552/">RSDet</a>).
