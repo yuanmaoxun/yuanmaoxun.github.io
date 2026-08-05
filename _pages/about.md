@@ -92,7 +92,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SEF-DETR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SEF-DETR1.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection](https://arxiv.org/abs/2601.02837)
 
