@@ -96,7 +96,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 <div class='paper-box-text' markdown="1">
 [Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection](https://arxiv.org/abs/2601.02837)
 
-Yuteng Liu, Duanni Meng, **<u>Maoxun Yuan</u>**\*, Xingxing Wei
+Yuteng Liu, Duanni Meng, Yimian Dai, **<u>Maoxun Yuan</u>**\*, Xingxing Wei, Bo Li
 
 <!-- _Arxiv, 2026_ -->
 
