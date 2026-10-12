@@ -95,7 +95,7 @@ My research interest includes **Multimodal Perception**, **Multisource Data Fusi
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/IRSTD-Agent.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/IRSTD-Agent1.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning](https://arxiv.org/abs/2610.05342)
 
