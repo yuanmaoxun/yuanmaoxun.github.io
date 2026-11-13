@@ -183,6 +183,8 @@ Tianyi Zhao\*, **<u>Maoxun Yuan</u>***, Feng Jiang, Nan Wang, Xingxing Wei.
 _IEEE Transactions on Intelligent Transportation Systems (**TITS**), 2025_
 
 📃[**Paper**](https://arxiv.org/abs/2401.10731)     💾[**Code**](https://github.com/Zhao-Tian-yi/RSDet)    ![img](https://img.shields.io/github/stars/Zhao-Tian-yi/RSDet?style=social) 
+
+🔥🏆️ <b><font color="red">ESI Hot & Highly Cited Paper</font></b> 
 </div>
 </div>
 
